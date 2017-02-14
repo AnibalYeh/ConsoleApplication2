@@ -3,5 +3,5 @@
 
 [<EntryPoint>]
 let main argv = 
-    printfn "%A" argv
+    printfn "%A: will conflict" argv
     0 // return an integer exit code
